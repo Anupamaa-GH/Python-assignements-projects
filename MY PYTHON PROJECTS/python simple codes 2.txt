@@ -1,0 +1,75 @@
+#Write a Python program to check if all dictionaries in a list are empty or not.
+#solution
+my_list1 = [{},{},{}]
+my_list2 = [{123,2345},{},{}]
+print(all(not d for d in my_list1))
+print(all(not d for d in my_list2))
+
+
+
+#Write a Python program to remove duplicates from a list of lists.
+#Solution
+import itertools
+num = [[110, 120], [240], [330, 456, 425], [310, 220], [133], [240]]
+print("Original List", num)
+num.sort()
+new_num = list(num for num,_ in itertools.groupby(num))
+print("New List", new_num)
+
+
+#Write a Python program to extend a list without append.
+#solution
+x = [103, 320, 430]
+y = [403, 503, 603]
+x[:0] =y
+print(x)
+
+
+
+#Write a Python program to find the list in a list of lists whose sum of elements is th
+e highest
+#Solution
+num = [[1,2,3], [4,5,6], [10,11,12], [7,8,9]]
+print(max(num, key=sum))
+
+
+#Write a Python program to access dictionary key’s element by index.
+num = {'stats': 80, 'math': 90, 'algorithm': 86}
+print(list(num)[0])
+
+
+#Write a Python program to iterate over two lists simultaneously.
+num = [1, 2, 3]
+color = ['red', 'while', 'black']
+for (a,b) in zip(num, color):
+    print(a, b)
+
+#write a program to inser a string at the begining of every elements in a list
+#solution
+a = [100,123,345,567,789,890,98,876,543,678]
+#enter customer before each element
+print(['customer{0}'.format(i) for i in a])
+
+
+#write a program to take two lists and print if they have at least one common member
+#solution
+def common_data(list1, list2):
+    result = False
+    for x in list1:
+        for y in list2:
+            if x == y:
+                result = True
+    return result
+
+print(common_data([121,222,332,432,125], [125,236,457,678,779]))
+print(common_data([1,2,3,4,5], [6,7,8,9]))
+
+
+# compute all permutations in a list
+#solution
+import itertools
+print(list(itertools.permutations([12,22,23])))
+
+
+
+

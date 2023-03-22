@@ -1,0 +1,17 @@
+#create a tuple from multiple data types
+tuple1 = ("tuple", False, 3.2, 1)
+print(tuple1)
+
+
+# Create a list of length 3 and Create a list of length 4, For each element in the firs
+t list,
+# Display the corresponding index element of the second list
+#Solution
+# Create a list of length 3:
+header = ['data science', 'Blue mix', 'algorithms']
+# Create a list of length 4:
+match = ['Red hat', 'Blue mixx','Green gold','Orange Ai']
+# For each element in the first list,
+for header, match in zip(header, match):
+# Display the corresponding index element of the second list:
+	print(header, 'has the following options:', match)

@@ -1,0 +1,36 @@
+#Write a Python program to sum all the items in a list.
+#solution
+def sum_list(items):
+    sum_numbers = 0
+    for x in items:
+        sum_numbers += x
+    return sum_numbers
+
+print(sum_list([1,2,-8]))
+
+
+# Write a Python program to count the number of strings where the string length is 2 or
+more and the first and last character are same from a given list of strings.
+#solution
+def match_words(words):
+    ctr = 0
+    for word in words:
+        if len(word) > 1 and word[0] == word[-1]:
+            ctr += 1
+    return ctr
+
+a=['abc', 'xyz', 'aba', '1221','bhgsskknb','aa']
+print(match_words(a))
+
+
+
+#Write a Python program to remove duplicates from a list.
+#Solution
+samp_list = [10, 20, 30, 20, 10, 50, 60, 40, 80, 50, 40]
+dup_items = set()
+uniq_items = []
+for x in samp_list:
+    if x not in dup_items:
+        uniq_items.append(x)
+        dup_items.add(x)
+print(dup_items)

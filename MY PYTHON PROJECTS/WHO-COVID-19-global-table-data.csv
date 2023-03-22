@@ -1,0 +1,238 @@
+﻿Country,WHO Region,Dates,Total cases,Cases  in last 7 days,Deaths,Death in last 7 days
+United States of America,Americas,07-01-2019,102019564,267168,1109145,2362
+China,Western Pacific,14-09-2019,99030129,97455,119865,355
+India,South-East Asia,02-04-2019,44686371,1239,530771,10
+France,Europe,16-03-2021,38513431,26390,161253,170
+Germany,Europe,08-02-2021,38144033,110846,167951,73
+Brazil,Americas,19-11-2020,37024417,34560,698947,891
+Japan,Western Pacific,09-01-2020,33190296,92344,72320,583
+Republic of Korea,Western Pacific,26-11-2021,30513721,67946,33977,104
+Italy,Europe,25-12-2021,25576852,16179,188094,130
+The United Kingdom,Europe,20-07-2019,24370154,9356,206952,39
+Russian Federation,Europe,10-08-2020,22272470,82482,396100,233
+Türkiye,Europe,04-05-2020,17004677,0,101419,0
+Spain,Europe,22-09-2021,13763336,7380,119380,194
+Viet Nam,Western Pacific,28-10-2020,11526905,80,43186,0
+Australia,Western Pacific,16-12-2020,11362275,0,19370,202
+Argentina,Americas,16-10-2019,10044125,817,130463,5
+Netherlands,Europe,02-05-2019,8594150,3420,22992,0
+Iran (Islamic Republic of),Eastern Mediterranean,14-09-2021,7567702,899,144842,30
+Mexico,Americas,15-06-2020,7450992,14758,332986,49
+Indonesia,South-East Asia,20-11-2019,6736046,1440,160914,22
+Poland,Europe,08-07-2021,6419480,15459,118884,51
+Colombia,Americas,13-07-2021,6359464,689,142615,19
+Austria,Europe,21-09-2021,5905405,38812,21872,25
+Greece,Europe,26-04-2021,5871458,0,36185,0
+Portugal,Europe,01-07-2021,5568084,537,26180,16
+Ukraine,Europe,15-11-2020,5389439,0,111235,0
+Chile,Americas,08-11-2019,5164922,14296,64174,72
+Malaysia,Western Pacific,23-06-2021,5042585,1411,36957,0
+Israel,Europe,03-12-2019,4798947,3616,12288,23
+Thailand,South-East Asia,26-07-2020,4728035,204,33911,9
+Belgium,Europe,15-10-2020,4717655,3532,33717,17
+Czechia,Europe,04-12-2020,4609820,6807,42436,33
+Canada,Americas,02-03-2020,4591149,9396,51249,163
+Peru,Americas,15-03-2019,4485684,915,219429,85
+Switzerland,Europe,01-05-2021,4389655,0,13937,0
+Philippines,Western Pacific,10-01-2019,4076237,708,66108,78
+South Africa,Africa,15-03-2021,4060385,0,102595,0
+Denmark,Europe,07-01-2021,3403225,799,8255,18
+Romania,Europe,14-03-2019,3340342,5211,67704,29
+Sweden,Europe,12-08-2019,2697827,358,23662,3
+Serbia,Europe,16-01-2019,2491704,5879,17821,42
+Iraq,Eastern Mediterranean,16-07-2019,2465545,0,25375,0
+Singapore,Western Pacific,16-09-2020,2226099,0,1722,0
+Hungary,Europe,23-06-2020,2194969,0,48650,0
+New Zealand,Western Pacific,04-07-2021,2166470,7832,2542,8
+Bangladesh,South-East Asia,12-08-2020,2037829,56,29445,0
+Slovakia,Europe,15-10-2020,1862889,632,21021,18
+Georgia,Europe,08-12-2019,1825598,0,16965,0
+Jordan,Eastern Mediterranean,24-03-2021,1746997,0,14122,0
+Ireland,Europe,09-03-2021,1703244,206,8655,39
+Pakistan,Eastern Mediterranean,05-05-2019,1576961,257,30643,2
+Kazakhstan,Europe,03-03-2021,1498722,544,19069,1
+Norway,Europe,03-04-2020,1478979,268,5175,0
+Finland,Europe,23-08-2020,1462169,210,8892,0
+Slovenia,Europe,20-05-2020,1328222,2148,9125,3
+Lithuania,Europe,14-11-2020,1304750,2117,9587,10
+Bulgaria,Europe,01-02-2021,1296773,474,38216,10
+Morocco,Eastern Mediterranean,11-08-2021,1272445,59,16296,0
+Croatia,Europe,05-10-2021,1268992,388,17971,21
+Guatemala,Americas,16-03-2019,1235970,1925,20168,11
+Lebanon,Eastern Mediterranean,17-12-2020,1231713,673,10825,6
+Costa Rica,Americas,03-12-2019,1204164,5109,9230,16
+Bolivia (Plurinational State of),Americas,26-05-2021,1192933,729,22365,3
+Tunisia,Eastern Mediterranean,11-02-2021,1150793,187,29330,4
+Cuba,Americas,06-04-2020,1112593,40,8530,0
+Puerto Rico,Americas,27-05-2020,1097748,2611,5791,20
+Ecuador,Americas,06-04-2019,1057121,284,36014,1
+United Arab Emirates,Eastern Mediterranean,07-07-2021,1051930,768,2349,0
+Uruguay,Americas,27-04-2020,1034303,257,7617,0
+Panama,Americas,17-11-2021,1031273,259,8604,1
+Mongolia,Western Pacific,25-08-2021,1007897,1,2136,0
+Nepal,South-East Asia,03-08-2019,1001145,10,12020,0
+Belarus,Europe,02-09-2020,994037,0,7118,0
+Latvia,Europe,24-05-2021,975999,152,6265,7
+Saudi Arabia,Eastern Mediterranean,04-09-2020,829388,405,9614,9
+Azerbaijan,Europe,12-01-2020,828515,157,10118,15
+Paraguay,Americas,13-09-2020,735664,824,19870,21
+"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,12-10-2019,703228,0,5708,0
+Bahrain,Eastern Mediterranean,22-06-2020,696614,0,1536,0
+Sri Lanka,South-East Asia,10-08-2021,672029,7,16830,1
+Kuwait,Eastern Mediterranean,11-08-2020,663456,0,2570,0
+Dominican Republic,Americas,27-11-2020,660705,45,4384,0
+Cyprus,Europe,06-04-2021,649093,2062,1305,8
+Myanmar,South-East Asia,21-09-2021,633914,13,19490,0
+Estonia,Europe,10-11-2019,615128,274,2940,6
+Republic of Moldova,Europe,15-08-2019,607360,3702,11988,14
+Venezuela (Bolivarian Republic of),Americas,27-03-2019,551928,4,5852,0
+Egypt,Eastern Mediterranean,10-10-2020,515698,0,24809,0
+Libya,Eastern Mediterranean,07-11-2019,507174,3,6437,0
+Ethiopia,Africa,10-12-2021,499903,31,7572,0
+Réunion,Africa,27-10-2019,494595,0,921,0
+Qatar,Eastern Mediterranean,05-03-2021,494056,566,686,0
+Honduras,Americas,08-11-2019,472116,352,11111,2
+Armenia,Europe,01-07-2019,446819,0,8721,0
+Bosnia and Herzegovina,Europe,06-02-2020,401636,61,16279,1
+Oman,Eastern Mediterranean,04-11-2020,399449,0,4628,0
+North Macedonia,Europe,13-12-2020,346852,0,9662,0
+Kenya,Africa,19-12-2021,342912,12,5688,0
+Zambia,Africa,02-08-2020,342707,0,4054,0
+Albania,Europe,21-03-2021,333455,56,3598,1
+Botswana,Africa,27-04-2021,329727,0,2795,0
+Luxembourg,Europe,07-11-2019,316601,656,1219,4
+Mauritius,Africa,14-07-2020,295440,0,1044,0
+Montenegro,Europe,28-05-2020,288189,634,2801,1
+Brunei Darussalam,Western Pacific,02-07-2021,278698,0,150,0
+Kosovo[1],Europe,22-09-2020,273003,195,3200,4
+Algeria,Africa,08-08-2021,271432,6,6881,0
+Nigeria,Africa,20-04-2019,266593,0,3155,0
+Zimbabwe,Africa,18-03-2019,263921,0,5663,0
+Uzbekistan,Europe,12-08-2020,251071,139,1637,0
+Mozambique,Africa,14-05-2021,233098,0,2242,0
+Martinique,Americas,06-10-2020,228875,0,1092,0
+Lao People's Democratic Republic,Western Pacific,03-05-2020,218015,6,758,0
+Afghanistan,Eastern Mediterranean,07-10-2020,209322,156,7879,1
+Iceland,Europe,16-07-2019,209093,129,263,0
+Kyrgyzstan,Europe,27-03-2020,206673,40,2991,0
+Guadeloupe,Americas,06-07-2019,201852,0,1010,0
+El Salvador,Americas,22-01-2021,201785,0,4230,0
+Trinidad and Tobago,Americas,27-03-2020,188737,226,4339,3
+Maldives,South-East Asia,09-10-2020,185732,3,311,0
+Ghana,Africa,09-08-2021,171167,0,1462,0
+Namibia,Africa,20-10-2021,171156,0,4090,0
+Uganda,Africa,01-01-2019,170409,0,3630,0
+Jamaica,Americas,09-12-2020,154196,131,3502,2
+Cambodia,Western Pacific,01-09-2019,138715,7,3056,0
+Rwanda,Africa,21-10-2021,133162,0,1468,0
+Cameroon,Africa,12-06-2020,124392,0,1965,0
+Malta,Europe,10-04-2020,117477,139,827,0
+Barbados,Americas,21-12-2019,106645,0,575,0
+Angola,Africa,23-12-2021,105255,0,1933,0
+French Guiana,Americas,18-02-2020,98041,0,413,0
+Democratic Republic of the Congo,Africa,06-08-2019,95645,0,1464,0
+Senegal,Africa,02-01-2021,88917,7,1971,0
+Malawi,Africa,04-03-2020,88584,0,2686,0
+Côte d’Ivoire,Africa,25-01-2019,88138,24,834,0
+Suriname,Americas,20-09-2019,82227,0,1400,0
+New Caledonia,Western Pacific,01-01-2021,80007,0,314,0
+French Polynesia,Western Pacific,01-04-2019,77957,0,649,0
+Eswatini,Africa,28-04-2021,74199,0,1423,0
+Guyana,Americas,23-07-2020,73066,9,1298,0
+Belize,Americas,21-02-2020,70740,19,688,0
+Fiji,Western Pacific,23-05-2021,68889,13,883,0
+Madagascar,Africa,28-05-2021,67852,0,1421,0
+Jersey,Europe,11-02-2020,66391,0,161,0
+Sudan,Eastern Mediterranean,25-07-2019,63809,22,5013,2
+Mauritania,Africa,18-02-2019,63438,0,997,0
+Cabo Verde,Africa,08-02-2019,63240,1,413,0
+Bhutan,South-East Asia,28-06-2020,62620,5,21,0
+Syrian Arab Republic,Eastern Mediterranean,22-08-2021,57423,0,3163,0
+Burundi,Africa,25-12-2021,53631,0,15,0
+Guam,Western Pacific,03-11-2021,50853,30,420,1
+Seychelles,Africa,03-12-2020,50665,0,172,0
+Gabon,Africa,23-10-2020,48981,0,306,0
+Andorra,Europe,27-04-2019,47875,9,159,0
+Papua New Guinea,Western Pacific,01-04-2019,46809,17,670,0
+Curaçao,Americas,07-11-2019,45786,5,301,0
+Aruba,Americas,04-09-2019,44044,18,282,0
+United Republic of Tanzania,Africa,27-01-2020,42823,0,846,0
+Mayotte,Africa,06-07-2020,42004,0,187,0
+Togo,Africa,11-03-2020,39371,4,290,0
+Guinea,Africa,05-02-2020,38267,0,467,0
+Isle of Man,Europe,04-07-2020,38008,0,116,0
+Bahamas,Americas,07-10-2019,37491,0,833,0
+Guernsey,Europe,26-12-2019,34929,62,66,0
+Faroe Islands,Europe,14-05-2020,34658,0,28,0
+Lesotho,Africa,15-10-2019,34490,0,706,0
+Haiti,Americas,22-04-2020,34076,0,860,0
+Mali,Africa,26-10-2019,32989,71,743,0
+Cayman Islands,Americas,13-08-2021,31472,0,37,0
+Saint Lucia,Americas,24-03-2021,30004,0,409,0
+Benin,Africa,05-09-2020,27990,0,163,0
+Somalia,Eastern Mediterranean,28-08-2019,27324,0,1361,0
+Congo,Africa,05-10-2021,25077,0,388,0
+United States Virgin Islands,Americas,20-07-2019,24756,51,130,0
+Solomon Islands,Western Pacific,25-10-2020,24575,0,153,0
+Micronesia (Federated States of),Western Pacific,17-07-2019,23948,0,61,1
+San Marino,Europe,08-09-2020,23583,44,122,0
+Timor-Leste,South-East Asia,06-08-2021,23418,0,138,0
+Burkina Faso,Africa,28-06-2019,22056,0,396,0
+Liechtenstein,Europe,02-07-2019,21404,0,87,0
+Gibraltar,Europe,14-03-2019,20420,0,111,0
+Grenada,Americas,22-06-2021,19680,0,238,0
+Bermuda,Americas,19-08-2019,18799,8,160,1
+South Sudan,Africa,27-05-2019,18368,0,138,0
+Tajikistan,Europe,26-07-2019,17786,0,125,0
+Equatorial Guinea,Africa,17-02-2021,17130,0,183,0
+Tonga,Western Pacific,23-05-2019,16807,0,12,0
+Samoa,Western Pacific,27-07-2020,16418,0,29,0
+Monaco,Europe,26-12-2020,16115,7,67,0
+Dominica,Americas,12-12-2019,15760,0,74,0
+Djibouti,Eastern Mediterranean,11-08-2019,15690,0,189,0
+Nicaragua,Americas,23-07-2019,15638,11,245,0
+Marshall Islands,Western Pacific,12-11-2019,15618,17,17,0
+Central African Republic,Africa,26-03-2019,15367,0,113,0
+Northern Mariana Islands (Commonwealth of the),Western Pacific,12-04-2020,13395,0,41,0
+Gambia,Africa,18-05-2021,12586,0,372,0
+Saint Martin,Americas,07-02-2020,12257,0,46,0
+Vanuatu,Western Pacific,15-01-2021,12014,0,14,0
+Greenland,Europe,13-12-2021,11971,0,21,0
+Yemen,Eastern Mediterranean,15-07-2021,11945,0,2159,0
+Sint Maarten,Americas,04-07-2019,11020,4,90,0
+Eritrea,Africa,01-03-2020,10189,0,103,0
+Bonaire,Americas,16-07-2021,9848,4,33,0
+Saint Vincent and the Grenadines,Americas,25-03-2019,9589,0,123,0
+Niger,Africa,16-12-2021,9512,0,315,0
+Antigua and Barbuda,Americas,14-03-2019,9106,0,146,0
+Comoros,Africa,01-02-2020,8998,0,160,0
+Guinea-Bissau,Africa,05-11-2019,8953,0,176,0
+American Samoa,Western Pacific,06-10-2019,8320,0,34,0
+Liberia,Africa,16-06-2019,8077,0,293,0
+Sierra Leone,Africa,07-07-2019,7760,0,125,0
+Chad,Africa,02-01-2020,7675,0,194,0
+British Virgin Islands,Americas,23-06-2021,7305,0,64,0
+Cook Islands,Western Pacific,27-02-2021,7028,0,2,0
+Saint Kitts and Nevis,Americas,17-06-2020,6596,0,46,0
+Turks and Caicos Islands,Americas,16-12-2019,6551,0,38,0
+Sao Tome and Principe,Africa,25-07-2020,6281,0,77,0
+Palau,Western Pacific,20-09-2020,5989,1,9,0
+Saint Barthélemy,Americas,07-05-2020,5439,0,5,0
+Nauru,Western Pacific,23-06-2020,5247,0,1,0
+Kiribati,Western Pacific,16-08-2019,5013,0,18,0
+Anguilla,Americas,18-07-2019,3904,0,12,0
+Wallis and Futuna,Western Pacific,27-03-2020,3427,0,7,0
+Saint Pierre and Miquelon,Americas,23-04-2021,3415,0,2,0
+Tuvalu,Western Pacific,19-10-2021,2779,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha",Africa,17-03-2020,2166,0,0,0
+Falkland Islands (Malvinas),Americas,23-09-2019,1923,0,0,0
+Montserrat,Americas,02-09-2021,1403,0,8,0
+Sint Eustatius,Americas,09-02-2020,1214,0,6,0
+Other,Other,28-04-2020,764,0,13,0
+Niue,Western Pacific,28-04-2019,747,0,0,0
+Saba,Americas,12-05-2021,742,1,2,0
+Holy See,Europe,19-12-2021,26,0,0,0
+Tokelau,Western Pacific,25-09-2020,5,0,0,0
+Pitcairn Islands,Western Pacific,05-11-2020,4,0,0,0
+Democratic People's Republic of Korea,South-East Asia,28-01-2019,0,0,0,0
+Turkmenistan,Europe,19-09-2020,0,0,0,0
